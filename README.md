@@ -1,0 +1,1 @@
+Docs can be found on godoc: [![GoDoc](https://godoc.org/github.com/cention-nazri/jetconf?status.svg)](https://godoc.org/github.com/cention-nazri/jetconf)
